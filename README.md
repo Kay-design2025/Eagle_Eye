@@ -5,7 +5,7 @@
 
 ### You can view the completed website by clicking the link below: 
 
-##### https://collinsdaniels.github.io/NeighborhoodStrengthFitness/
+##### https://kay-design2025.github.io/Eagle_Eye/
 
 ### Student Information
 
